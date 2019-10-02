@@ -184,6 +184,7 @@ intIdade
 
 Para manter o preâmbulo do seu arquivo organizado, temos uma ordem prescrita na qual as diretivas devem aparecer. Cada "seção" deve ser separada por uma linha em branco.
 
+Um atalho interessante no VSCode é ALT + SHIFT + O esse atalho organiza e remove os imports nao utilizados no documento.
 
 FAÇA as importações "dart:" antes de outras importações.
 
